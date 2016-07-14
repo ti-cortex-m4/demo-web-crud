@@ -20,6 +20,9 @@ local.properties
 .gradle
 build
 
+# Maven files #
+target
+
 # Local files #
 todo.txt
 *.zip
