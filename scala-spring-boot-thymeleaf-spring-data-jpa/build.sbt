@@ -1,4 +1,4 @@
-name := "spring-boot-scala-web"
+name := "scala-spring-boot-thymeleaf-spring-data-jpa"
 
 version := "1.0"
 
