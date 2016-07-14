@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.vaadin.example</groupId>
-	<artifactId>spring-boot-data-vaadin-couchbase</artifactId>
+	<artifactId>java-spring-boot-vaadin-spring-data-couchbase</artifactId>
 	<version>0.1.0</version>
 
 	<parent>
