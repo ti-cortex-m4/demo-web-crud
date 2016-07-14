@@ -1,8 +1,8 @@
-# Scala Files #
+# Java Files #
 *.class
 
 # Package Files #
-*.jar
+# *.jar, we need to checkin gradle/wrapper/gradle-wrapper.jar
 *.war
 *.ear
 
@@ -16,16 +16,9 @@
 local.properties
 *.iml
 
-# SBT files #
-.cache
-.history
-.lib/
-dist/*
-target/
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
+# Gradle files #
+.gradle
+build
 
 # Local files #
 todo.txt
