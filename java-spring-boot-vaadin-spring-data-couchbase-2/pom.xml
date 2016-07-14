@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.spring</groupId>
-    <artifactId>spring-data-vaadin-crud-couchbase</artifactId>
+    <artifactId>java-spring-boot-vaadin-spring-data-couchbase-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <description>Simple CRUD with Vaadin and Spring Data Couchbase</description>
