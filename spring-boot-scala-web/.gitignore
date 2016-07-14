@@ -27,6 +27,10 @@ src_managed/
 project/boot/
 project/plugins/project/
 
+# Gradle files #
+.gradle
+build
+
 # Local files #
 todo.txt
 *.zip
