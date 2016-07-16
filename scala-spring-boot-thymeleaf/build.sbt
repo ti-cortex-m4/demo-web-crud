@@ -1,4 +1,4 @@
-name := "scala-spring-boot-thymeleaf-spring-data-jpa"
+name := "scala-spring-boot-thymeleaf"
 
 version := "1.0"
 

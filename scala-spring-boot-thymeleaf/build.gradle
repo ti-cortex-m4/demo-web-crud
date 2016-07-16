@@ -23,7 +23,7 @@ ext {
 
 
 jar {
-    baseName = 'scala-spring-boot-thymeleaf-spring-data-jpa'
+    baseName = 'scala-spring-boot-thymeleaf'
     version =  '0.1.5'
 }
 

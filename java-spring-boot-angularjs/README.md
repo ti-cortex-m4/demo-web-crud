@@ -1,3 +1,3 @@
 # java-spring-boot-angularjs
 
-inspired by: https://github.com/priyadb/SpringDataRestExample
+https://github.com/priyadb/SpringDataRestExample
